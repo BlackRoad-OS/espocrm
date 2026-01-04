@@ -1,10 +1,10 @@
 {
-  "name": "espocrm",
+  "name": "blackroad-os",
   "version": "9.2.5",
-  "description": "Open-source CRM.",
+  "description": "BlackRoad OS - Native CRM Platform.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/espocrm/espocrm.git"
+    "url": "https://github.com/BlackRoad-OS/espocrm.git"
   },
   "scripts": {
     "postinstall": "node js/scripts/postinstall-cleanup && node js/scripts/prepare-lib-original.js",
@@ -16,8 +16,8 @@
     "unit-tests": "php vendor/bin/phpunit ./tests/unit",
     "integration-tests": "php vendor/bin/phpunit ./tests/integration"
   },
-  "homepage": "https://www.espocrm.com",
-  "author": "EspoCRM, Inc.",
+  "homepage": "https://www.blackroadinc.com",
+  "author": "BlackRoad OS, Inc.",
   "contributors": [
     {
       "name": "Yurii Kuznietsov"

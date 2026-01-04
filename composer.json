@@ -1,8 +1,8 @@
 {
-    "name": "espocrm/espocrm",
-    "description": "EspoCRM. Open source CRM application.",
+    "name": "blackroad-os/blackroad-os",
+    "description": "BlackRoad OS. Native CRM application.",
     "type": "project",
-    "homepage": "https://github.com/espocrm/espocrm.git",
+    "homepage": "https://github.com/BlackRoad-OS/espocrm.git",
     "license": "AGPL-3.0-or-later",
     "require": {
         "php": ">=8.3.0 <8.5.0",
